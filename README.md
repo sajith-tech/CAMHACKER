@@ -11,7 +11,7 @@ Follow these steps to install and use CAMHACKER:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/CyberLucky006/CamHacker.git
+   git clone https://github.com/sajith-tech/CAMHACKER.git
 2. Navigate into the CamHacker directory
    ```bash
    cd CAMHACKER
